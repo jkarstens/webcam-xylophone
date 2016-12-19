@@ -13,7 +13,7 @@ An augemented reality xylophone that lights up and plays notes when you move you
 4. Try smiling at the camera for a few seconds straight (3 to be exact) - Google should be able to recognize the emotion as happy, and the
 notes will be happy notes. Try contorting your face into sad or angry faces and if Google is able to recognize the emotion,
 the notes will change to sad or angry notes. 
-5. Adjust the slider labeled `MOTION SENSITIVIVITY` as necessary to make the xylophone notes more or less sensitive to movement.
+5. Adjust the slider labeled `MOTION SENSITIVITY` as necessary to make the xylophone notes more or less sensitive to movement.
 
 ## Notes (pun intended)
  - This works best in a will-let room, finger contrasting against the background, computer on table steady, nothing else moving in the background.
