@@ -4,7 +4,7 @@ An augemented reality xylophone that lights up and plays notes when you move you
 ## Requirements
   1. Download `cv.jit` package from the Max package manager
   2. Download the `shell` package from https://cycling74.com/toolbox/bernstein-shell/
-  3. Download the `requests` package for python (2.7) like ```sudo -H pip2.7 install requests``` or ```sudo -H pip install requests``` If you can't manage to get this to work, use the final project without the Google API: ar_xylophone_sans_google
+  3. Download the `requests` package for python (2.7) like ```sudo -H pip2.7 install requests``` or ```sudo -H pip install requests``` If you can't manage to get this to work, use the patch without the Google API: ar_xylophone_sans_google
 
 ## Instructions for use
 1. Find the absolute working directory where this max patch (and accompanying files) are located and write it (copy/paste it) into the above message, then bang the message. Make sure to include the trailing slash. On my computer, it looks like /Users/jakobkarstens/Desktop/maxpats/final/ -- This allows the `shell` object to access the files here.
